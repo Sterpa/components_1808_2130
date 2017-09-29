@@ -1,0 +1,24 @@
+{
+  "name": "components_1808_2130",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sterpa/components_1808_2130.git"
+  },
+  "author": "Mikhail Belokoskov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sterpa/components_1808_2130/issues"
+  },
+  "homepage": "https://github.com/Sterpa/components_1808_2130#readme",
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-google": "^0.9.1",
+    "node-static": "^0.7.10"
+  }
+}
